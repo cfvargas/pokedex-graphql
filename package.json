@@ -10,9 +10,19 @@
     "build:watch": "webpack -w"
   },
   "dependencies": {
+    "apollo-client": "^1.9.2",
+    "apollo-server-express": "^1.1.2",
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
+    "graphql": "^0.11.3",
+    "graphql-tools": "^1.2.2",
+    "knex": "^0.13.0",
+    "objection": "^0.8.9",
+    "pg": "^7.3.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-apollo": "^1.4.15",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "babel": "^6.23.0",
