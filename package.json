@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "React & Graphql example",
   "main": "index.js",
-  "repository": "https://github.com/cfvargas/pokedex-graphql",
   "author": "@cfvargas",
   "license": "MIT",
   "scripts": {
